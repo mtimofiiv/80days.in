@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#">
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+    <meta name="viewport" content="initial-scale=1">
+    {{ seo }}
+    <link rel="stylesheet" href="/assets/styles.css">
+  </head>
+  <body class="{{ page.layout }}">
+
+    {% include header.html %}
+    {{ content }}
+
+    <footer>
+      <div class="container">
+        <p>this is the foot</p>
+      </div>
+    </footer>
+
+    <script src="/assets/script.js"></script>
+  </body>
+</html>
