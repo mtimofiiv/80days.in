@@ -32,10 +32,9 @@ github_username:  mtimofiiv
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
   - jemoji
   - jekyll-sitemap
   - jekyll-paginate
