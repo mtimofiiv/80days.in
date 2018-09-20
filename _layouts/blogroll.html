@@ -1,0 +1,26 @@
+---
+layout: default
+---
+{% if page.category %}
+  {% assign posts = site.categories[page.category] %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+<div class="container">
+  {% if page.title %}
+    <h1>{{page.title}}</h1>
+  {% endif %}
+  {% if page.leadin %}
+    <p class="leadin">{{page.leadin}}</p>
+  {% endif %}
+  <section class="blogroll">
+    {% for post in posts %}
+      <div class="post">
+        <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <h2><a href="{{post.url}}">{{post.title}}</a></h2>
+        {{ post.excerpt }}
+      </div>
+    {% endfor %}
+  </section>
+</div>

@@ -3,6 +3,7 @@ layout: post
 title:  "Let Postgres generate thouse updated_at timestamps for you"
 date:   2018-09-10 11:33:41 +0200
 tags: [ 'sql', 'postgres', 'postgresql', 'tech' ]
+category: tech
 masthead: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cygnus_Wall.jpg/1024px-Cygnus_Wall.jpg
 ---
 

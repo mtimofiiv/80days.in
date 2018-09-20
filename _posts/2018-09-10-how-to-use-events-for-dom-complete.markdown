@@ -3,6 +3,7 @@ layout: post
 title:  "How to use events for DOM complete"
 date:   2018-09-10 11:33:41 +0200
 tags: [ 'widgets', 'javascipt', 'frontend' ]
+category: tech
 masthead: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cygnus_Wall.jpg/1024px-Cygnus_Wall.jpg
 ---
 These days in the age of `<script>` tags getting the `async` and `defer` attributes, you might want to include a `.js` file on your site, and then use its methods inline or in another script file.

@@ -16,16 +16,26 @@
   <body class="{{ page.layout }}">
 
     {% include header.html %}
+    {% include nav.html %}
+
+    <div
+      class="masthead angle--bottom-left with-background"
+      style="background-image: url({% if page.masthead %}{{page.masthead}}{% else %}/assets/images/hcm.jpg{% endif %});">
+    </div>
+
     {{ content }}
+
+    {% include about.html %}
+
 
     <footer>
       <div class="container">
-        <p>this is the foot</p>
+
       </div>
     </footer>
 
     <script src="/assets/script.js"></script>
-    <script async src="https://cdn.simpleanalytics.io/hello.js"></script> 
+    <script async src="https://cdn.simpleanalytics.io/hello.js"></script>
     <noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
   </body>
 </html>
