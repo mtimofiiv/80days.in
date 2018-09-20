@@ -2,7 +2,7 @@
 layout: post
 title:  "3 tips on building a modern embedded widget"
 date:   2018-09-10 11:33:41 +0200
-categories: jekyll update
+tags: [ 'widgets', 'javascipt', 'frontend' ]
 masthead: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cygnus_Wall.jpg/1024px-Cygnus_Wall.jpg
 ---
 Working for one client, I had to write a widget that would JustWork™ in clients' websites, adapting to their colour schemes and not interfering in their own scripts. It's actually not that hard when you identify the requirements of what you're doing! I thought I'd share my learnings with the community.
