@@ -34,24 +34,28 @@ header {
   a {
     &:hover { text-decoration: none; }
 
+    // img {
+    //   border-radius: 50%;
+    //   border: 3px solid white;
+    //   width: 60px;
+    //   height: 60px;
+    //   position: relative;
+    //   top: 7px;
+    //   box-shadow: 0 2px 3px rgba(10,10,10,0.1), 0 0 0 1px rgba(10,10,10,0.1);
+    //   z-index: 2;
+    // }
+
     img {
-      border-radius: 50%;
-      border: 3px solid white;
-      width: 60px;
-      height: 60px;
-      position: relative;
-      top: 7px;
-      box-shadow: 0 2px 3px rgba(10,10,10,0.1), 0 0 0 1px rgba(10,10,10,0.1);
-      z-index: 2;
+      width: 150px;
     }
 
     span {
       background: rgba(black, 0.4);
       color: white !important;
-      font-size: 250%;
+      font-size: 170%;
       font-weight: bold;
       position: relative;
-      top: -10px;
+      top: -13px;
       left: -35px;
       padding: 0 25px 5px 45px;
       z-index: 1;
@@ -61,7 +65,12 @@ header {
 }
 
 .masthead {
-  max-height: 500px;
+  height: 500px;
+
+  &.with-background {
+    background-position: center center;
+    background-size: cover;
+  }
 }
 
 article {
