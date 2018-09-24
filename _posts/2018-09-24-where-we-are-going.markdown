@@ -2,7 +2,7 @@
 layout: post
 title:  "I am setting out on a journey (to nowhere in particular)"
 date:   2018-09-10 11:33:41 +0200
-tags: [ 'life', 'parenting', 'travel' ]
+tags: [ 'life', 'travel', 'digital nomad' ]
 category: travel
 masthead: /assets/images/hanoi.jpg
 ---
@@ -32,11 +32,13 @@ But above all we've changed the way we see work:
 
 > _- Lawrence Pearsall Jacks_
 
-Unitarian minister L.P. Jacks summed it up pretty perfectly – we're not looking for a vacation or to get away, we're trying out how to live entirely differently. Everything that we do, including our work, is a part of us all, it's about time we embrace it, and that's what we're doing. And if it doesn't work? – well, we tried. In the words of Epicurus:
+Unitarian minister L.P. Jacks summed it up pretty perfectly – we're not looking for a vacation or to get away, we're trying out how to live entirely differently. Everything that we do, including our work, is a part of us all, it's about time we embrace it, and that's what we're doing. And if it doesn't work? In the words of Epicurus:
 
 > The fool’s life is empty of gratitude and full of fears; its course lies wholly toward the future.
 
-The thing is, unfortunately our world of borders and travel visas and health insurance is just not designed for transient living. From personal experience, it's kind of ridiculous that, after staying for a month or two in a country I have to physically leave its border, even if it's to turn around and prompty re-enter it two minutes later, for example, just so I can get a fresh stamp in my passport.
+Why be afraid of failure?
+
+The only caveat is that unfortunately our world of borders and travel visas and health insurance is just not designed for transient living. From personal experience, it's kind of ridiculous that, after staying for a month or two in a country I have to physically leave its border, even if it's to turn around and prompty re-enter it two minutes later, for example, just so I can get a fresh stamp in my passport.
 
 As a society we've embraced globalisation and now, I no longer need to take a hot air balloon for 80 days to circumnavigate the globe (Jules Verne's _Around the World in Eighty Days_ also lent its name to this blog). With the internet and a whole slew of communication tools (Skype, Slack, et al), I no longer need to physically be in the office somewhere to get my work done.
 
@@ -47,3 +49,5 @@ But there's still challenges to living out of a suitcase. And I am going to try 
 > _- Fazil Iskander_
 
 I believe in the world's rationality. And I believe that in my travels I will encounter a great many things, some cruel and stupid and some profoundly rational or amazing. And that's the point. And I believe that actually trying to do this, and striving for excellence in all ways, is how I am going to be able to have the best life.
+
+So follow along – I'm going to explore this world, and I'm going to tell you all about it. I'm going to explore what it's like to live all over the world, and I'm going to explore shipping products and writing my book and what it's like to have no permanent address. Just like Hackers & Founders are finding ways to launch products, I'm going to look for best ways to blast off from routine, day-to-day and the "9 to 5".
