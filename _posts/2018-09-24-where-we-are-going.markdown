@@ -5,6 +5,7 @@ date:   2018-09-10 11:33:41 +0200
 tags: [ 'life', 'travel', 'digital nomad' ]
 category: travel
 masthead: /assets/images/hanoi.jpg
+share_image: /assets/images/hanoi-share.jpg
 ---
 "We call it a 'monkey wedding' in South Africa," said Dave, as all the people in our office looked out of our big window at the golden sunshine in a blue sky reflecting off the falling nails of raindrops outside. This is Amsterdam in September, where the weather dries and wets you at the same time, and makes about as much sense as monkeys getting married.
 
