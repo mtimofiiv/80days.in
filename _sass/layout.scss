@@ -40,6 +40,30 @@ figure {
   }
 }
 
+.share-tools {
+  text-align: center;
+  padding: 20px;
+}
+
+.share-btn {
+  color: #ccc;
+}
+
+.share-btn:hover {
+  color: $highlight-color;
+}
+
+.share-action {
+  color: $highlight-color;
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+}
+
+.hidden {
+  display: none;
+}
+
 header {
   position: absolute;
   z-index: 1;
@@ -67,6 +91,18 @@ header {
 article {
   padding-left: 25px;
   border-left: lighten($highlight-color, 38%) solid 3px;
+
+  h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 190%;
+  }
+
+  .date {
+    color: lighten($base-font-color, 20%);
+    font-weight: bold;
+    margin-bottom: 0;
+  }
 }
 
 .tags {
@@ -111,7 +147,7 @@ article {
 
 aside.about-widget {
   width: 100%;
-  margin: 150px 0;
+  margin: 150px 0 0 0;
   background: $highlight-color;
   color: white;
   padding: 0 0 100px 0;
@@ -149,9 +185,10 @@ aside.about-widget {
 
 footer {
   background-color: white;
-  height: 200px;
-  padding-top: 100px;
-  margin-top: 100px;
+
+  .contact-links {
+    text-align: center;
+  }
 }
 
 // Extra small devices (portrait phones, less than 576px)
