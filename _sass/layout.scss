@@ -26,6 +26,20 @@ a:hover {
   text-decoration: underline;
 }
 
+blockquote {
+  font-size: $base-font-size * 1.1;
+  color: $highlight-color;
+}
+
+figure {
+  width: 80%;
+  margin: 0 auto;
+
+  img {
+    width: 100%;
+  }
+}
+
 header {
   position: absolute;
   z-index: 1;
