@@ -40,3 +40,8 @@ exclude:
   - Gemfile.lock
 
 mike_location: Amsterdam
+
+feed:
+  categories:
+    - tech
+    - travel
