@@ -92,7 +92,7 @@ DEPENDENCIES
   jemoji
 
 RUBY VERSION
-   ruby 2.4.0p0
+   ruby 2.5.1p57
 
 BUNDLED WITH
-   1.14.5
+   1.16.6
