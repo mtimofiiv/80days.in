@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "It has now been 2 weeks on the road as a digital nomad"
-date:   2018-12-30 11:33:41 +0200
+date:   2018-12-30 19:42:41 +0200
 tags: [ 'digital nomad', 'travel', 'checkin' ]
 category: travel
 masthead: /assets/images/malta-seapuppy.jpg
