@@ -39,7 +39,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-mike_location: Amsterdam
+mike_location: Malta
+mike_location_flag: 🇲🇹
 
 feed:
   categories:
