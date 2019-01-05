@@ -35,17 +35,17 @@ Personally, next time I'm in Malta I'm going to stay in Valletta because I love 
 
 ## Getting around
 
-Renting a car is fairly cheap, and is by far the easiest. Driving is done on the left side of the road, and be prepared to make a few wrong turns in places while navigating, because sometimes, even following the highways can get a bit confusing due to the way they split and merge.
+🚘 Renting a car is fairly cheap, and is by far the easiest. Driving is done on the left side of the road, and be prepared to make a few wrong turns in places while navigating, because sometimes, even following the highways can get a bit confusing due to the way they split and merge.
 
-Transit in the form of busses are pretty easy to use as well and run fairly regularly, but sometimes are full so they might not stop to pick you up!
+🚌 Transit in the form of busses are pretty easy to use as well and run fairly regularly, but sometimes are full so they might not stop to pick you up!
 
-Bikes are also viable in the Valletta area especially, as [nextbike](https://www.nextbike.com.mt/en/malta/) operates several hubs where you can find unmanned bike racks which you can rent with their app.
+🚲 Bikes are also viable in the Valletta area especially, as [nextbike](https://www.nextbike.com.mt/en/malta/) operates several hubs where you can find unmanned bike racks which you can rent with their app.
 
-A ferry, taking about 10 mins to cross, goes from Valletta to Sliema's _The Strand_ and back, close to The Point mall. Very convenient if you're staying in St. Julian's or Sliema!
+⛴ A ferry, taking about 10 mins to cross, goes from Valletta to Sliema's _The Strand_ and back, close to The Point mall. Very convenient if you're staying in St. Julian's or Sliema!
 
-A ferry connects to Gozo from a terminal on the north tip of the main island, where you pay on the way back. You can walk on or take your car. Go early or you might be stuck for a couple hours waiting!
+⛴ A ferry connects to Gozo from a terminal on the north tip of the main island, where you pay on the way back. You can walk on or take your car. Go early or you might be stuck for a couple hours waiting!
 
-Taxis are by far the priciest, but reasonable. From the airport, each township has a set rate (so for example anywhere in St. Julian's will cost €20).
+🚕 Taxis are by far the priciest, but reasonable. From the airport, each township has a set rate (so for example anywhere in St. Julian's will cost €20).
 
 ## So what do I even do there?
 
