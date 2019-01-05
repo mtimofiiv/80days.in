@@ -5,6 +5,7 @@ tags: [ 'travel', 'guides', 'malta' ]
 category: travel
 masthead: /assets/images/malta1.jpg
 share_image: /assets/images/malta-guide-share.jpg
+date:   2019-01-05 07:30:00 +0200
 ---
 Malta is not a big country – it's only 316km<sup>2</sup>, and it holds the 10th position on the list of the smallest countries in the world. But it is dense – though its nowhere near Macau or Monaco in that respect, there are 1510 people per square kilometre (Macau, the top of the list of most dense population territories, just for reference, is 20164).
 
