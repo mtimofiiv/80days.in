@@ -38,6 +38,12 @@ figure {
   img {
     width: 100%;
   }
+
+  p {
+    text-align: center;
+    font-size: $base-font-size * 0.6;
+    font-weight: bold;
+  }
 }
 
 .share-tools {
