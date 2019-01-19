@@ -24,8 +24,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-mike_location: Bangkok
-mike_location_flag: 🇹🇭
+mike_location: Phnom Penh
+mike_location_flag: 🇰🇭
 
 feed:
   categories:
