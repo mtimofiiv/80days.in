@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Phnom Penh"
+tags: [ 'digital nomad', 'travel', 'checkin' ]
+category: travel
+masthead: /assets/images/phnom-penh.jpeg
+share_image: /assets/images/phnom-penh-share.jpg
+---
+Do you know what a city sounds like when you're a few floors up? It sounds like an echo of a hum, where the individual tendrils of activity wash together into
