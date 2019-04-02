@@ -33,16 +33,15 @@ blockquote {
 
 figure {
   width: 80%;
-  margin: 0 auto;
+  margin: 20px auto;
 
   img {
     width: 100%;
   }
 
-  p {
+  p, figcaption {
     text-align: center;
     font-size: $base-font-size * 0.6;
-    font-weight: bold;
   }
 }
 
