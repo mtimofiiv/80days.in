@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  I have found the magic sauce in life, and so can you
-date:   2019-09-14 01:33:41 +0200
+title:
+date:  2019-09-14 01:33:41 +0200
 tags: [ 'life', 'travel', 'digital nomad' ]
 category: travel
 masthead: /assets/images/morocco/kids.jpg
@@ -76,8 +76,10 @@ Yesterday night, we went to a full moon ceremony here on the eastern shoreline o
 
 Children in traditional dress danced to chanting and Bali Rindik music. Holy water was splashed over offerings and on pilgrims, after several minutes of prayer. Meanwhile, the blood-red moon illuminated the scene on the black sand beach like a keyhole in the dark of the night. I could have missed it.
 
-And you know what? It was worth to me exactly what I put into the experience. It's not even like the ceremony had made some kind of profound mark on my life in of itself, it's more that it's the first domino of the changes I know I need to make.
-
 Part of being _templed out_ meant that I didn't feel like writing as much anymore, an activity that brings me a lot of joy. I think the moment at the ceremony was important because it was a time of relection, a turning point.
 
-I'll keep you updated as to how it goes!
+And you know what? It was worth to me exactly what I put into the experience. It's not even like the ceremony had made some kind of profound mark on my life in of itself, it's more that it's the first domino of the changes I know I need to make.
+
+This is not some kind of profound realisation that I lacked before. Of course someone gets what they put into something...but having a reminder of it is another thing entirely.
+
+So, a reminder: **The magic in life is the magic you sculpt into it yourself.**
