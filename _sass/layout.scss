@@ -242,13 +242,12 @@ ul.photo-array {
       width: 100%;
       overflow: hidden;
       justify-content: center;
-      align-items: flex-start;
+      align-items: center;
       display: flex;
       height: 100%;
 
       img {
-        width: auto;
-        min-height: 100%;
+        width: 150%;
         opacity: 0.9;
 
         &:hover { opacity: 1; }
