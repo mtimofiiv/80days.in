@@ -5,7 +5,7 @@ date:  2019-09-14 01:33:41 +0200
 tags: [ 'life', 'travel', 'digital nomad' ]
 category: travel
 masthead: /assets/images/morocco/kids.jpg
-share_image: /assets/images/kids.jpg
+share_image: /assets/images/kids-share.jpg
 morocco_gallery:
   -
     image: /assets/images/morocco/atlas.jpg
