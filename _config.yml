@@ -15,7 +15,7 @@ github_username:  mtimofiiv
 markdown: kramdown
 
 plugins:
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-seo-tag
   - jemoji
   - jekyll-sitemap
