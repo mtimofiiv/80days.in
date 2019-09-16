@@ -38,6 +38,18 @@
   var initialize = function() {
     initSocialButtons('share-facebook', shareHover('Share on Facebook'), shareClickFacebook);
     initSocialButtons('share-twitter', shareHover('Share on Twitter'), shareClickTwitter);
+
+    document.addEventListener('DOMContentLoaded', function() {
+      const pjax = new Pjax({ selectors: [ 'title', 'meta', 'body' ], cacheBust: false });
+
+      document.addEventListener('pjax:send', function() {
+        NProgress.start()
+      });
+
+      document.addEventListener('pjax:complete', function() {
+        NProgress.done()
+      });
+    });
   };
 
   initialize();
