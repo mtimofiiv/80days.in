@@ -4,7 +4,7 @@ title:  Why Cambodia?
 date:   2019-06-11 01:33:41 +0200
 tags: [ 'life', 'travel', 'digital nomad' ]
 category: travel
-masthead: /assets/images/boat-in-kep.jpg
+image: /assets/images/boat-in-kep.jpg
 share_image: /assets/images/boat-in-kep-share.jpg
 ---
 The warm, hard-falling rain had passed, and the shy sun peeked once again from behind a small spattering of clouds. In the distance near the vanishing point of the horizon, bright stabs of lightning gracefully throbbed in the sky with the frequency of a slow pulse.

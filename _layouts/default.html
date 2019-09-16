@@ -4,6 +4,8 @@
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
     <meta name="viewport" content="initial-scale=1">
     {{ seo }}
+
+    <link type="application/atom+xml" rel="alternate" href="{{site.url}}/feed.xml" title="80 Days">
     <link rel="stylesheet" href="/assets/styles.css">
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
@@ -30,7 +32,7 @@
 
     <div
       class="masthead angle--bottom-left with-background"
-      style="background-image: url({% if page.masthead %}{{page.masthead}}{% else %}/assets/images/hcm.jpg{% endif %});">
+      style="background-image: url({% if page.image %}{{page.image}}{% else %}/assets/images/hcm.jpg{% endif %});">
     </div>
 
     {{ content }}

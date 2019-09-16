@@ -4,7 +4,7 @@ title:  "It has now been 2 weeks on the road as a digital nomad"
 date:   2018-12-30 19:42:41 +0200
 tags: [ 'digital nomad', 'travel', 'checkin' ]
 category: travel
-masthead: /assets/images/malta-seapuppy.jpg
+image: /assets/images/malta-seapuppy.jpg
 share_image: /assets/images/malta-seapuppy-share.jpg
 ---
 We left Amsterdam on the 15th of December, and today is the 28th. Only 16 days ago, my friends and colleagues in Netherlands threw me a going away party where we toured the Amsterdam Light Festival by boat and ate amazing Alegrian food near [Westergasfabriek](http://www.westergasfabriek.nl). That is two weeks now that we've been homeless and two weeks before we arrive in our first semi-permanent residence in Phnom Penh, Cambodia.

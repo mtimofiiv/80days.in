@@ -1,9 +1,8 @@
 <div class="lightbox">
   {% for image in include.images %}
-    <a href="#{{include.set}}">&times;</a>
-    <a id="image-{{include.set}}-{{forloop.index0}}" href="#{{include.set}}">
+    <a id="image-{{include.set}}-{{forloop.index0}}" href="#{{include.set}}" class="photo">
       <img src="{{image.image}}" alt="{{image.alt}}">
-      <span>{{image.alt}}</span>
+      <span class="caption">{{image.alt}}</span>
     </a>
   {% endfor %}
 </div>

@@ -3,7 +3,7 @@ layout: post
 title:  "So you're in Malta, what should you do while you're here?"
 tags: [ 'travel', 'guides', 'malta' ]
 category: travel
-masthead: /assets/images/malta1.jpg
+image: /assets/images/malta1.jpg
 share_image: /assets/images/malta-guide-share.jpg
 date:   2019-01-05 07:30:00 +0200
 ---

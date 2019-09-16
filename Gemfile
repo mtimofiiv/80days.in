@@ -17,7 +17,7 @@ gem 'jekyll', '3.7.4'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem 'jekyll-feed'
+   # gem 'jekyll-feed'
    gem 'jemoji'
    gem 'jekyll-sitemap'
    gem 'jekyll-seo-tag'

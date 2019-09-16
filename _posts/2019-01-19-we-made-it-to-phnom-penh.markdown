@@ -3,7 +3,7 @@ layout: post
 title:  "3 months in Cambodia, but a lifetime's worth of growth"
 tags: [ 'digital nomad', 'travel', 'checkin' ]
 category: travel
-masthead: /assets/images/phnom-penh.jpg
+image: /assets/images/phnom-penh.jpg
 share_image: /assets/images/phnom-penh-share.jpg
 excerpt:
 ---

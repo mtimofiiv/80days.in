@@ -4,8 +4,9 @@ title: Sometimes, you don't even realise how much you need magic again
 date:  2019-09-14 01:33:41 +0200
 tags: [ 'life', 'travel', 'digital nomad' ]
 category: travel
-masthead: /assets/images/morocco/kids.jpg
+image: /assets/images/morocco/kids.jpg
 share_image: /assets/images/kids-share.jpg
+excerpt: I've done a lot of searching, and I think I found something – and it's how to find magic. To make you understand, I need to tell a story.
 morocco_gallery:
   -
     image: /assets/images/morocco/atlas.jpg

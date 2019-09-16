@@ -4,7 +4,7 @@ title:  "Synthwave is the perfect travel music"
 date:   2018-10-21 11:33:41 +0200
 tags: [ 'music' ]
 category: travel
-masthead: /assets/images/synthwave.jpeg
+image: /assets/images/synthwave.jpeg
 share_image: /assets/images/synthwave-share.jpg
 ---
 My train was approaching Leiden Central Station as the engulfing blackness of the South Holland countryside gave way to the lights of the town. The trees and straight-banked irrigation canals punctuated the farmlands, green by day, black and shapeless by the night's eye behind me – broken up by the occasional middle-of-nowhere village. The red brick of the buildings, with accents of solid colours occupying the spaces between those bricks in variations of rectangles, stretched on both sides of the tracks as the empty streets and squares rested after a day's use. Quiet, alone, basking in the night's stillness, like me.

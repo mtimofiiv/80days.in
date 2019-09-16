@@ -4,7 +4,8 @@ title:  "How to use events for DOM complete"
 date:   2018-09-10 11:33:41 +0200
 tags: [ 'widgets', 'javascipt', 'frontend' ]
 category: tech
-masthead: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cygnus_Wall.jpg/1024px-Cygnus_Wall.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cygnus_Wall.jpg/1024px-Cygnus_Wall.jpg
+excerpt: "How to make sure your javascript is run after the DOM is loaded - it's simple and easy!"
 ---
 These days in the age of `<script>` tags getting the `async` and `defer` attributes, you might want to include a `.js` file on your site, and then use its methods inline or in another script file.
 
