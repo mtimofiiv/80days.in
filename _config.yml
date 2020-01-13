@@ -24,8 +24,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-mike_location: Amed
-mike_location_flag: 🇮🇩
+mike_location: Amsterdam
+mike_location_flag: 🇳🇱
 
 feed:
   categories:
