@@ -18,7 +18,7 @@ In the beginning, people of Asian descent suffered from racism related to the vi
 
 It cares only about the fact that it can reproduce and exist. And the warm meat we carry around is the perfect place to do just that.
 
-The virus is not a terrorist or a freedom fighter, whose image can be seen as a liberator to somme or an oppressor to others. The virus does not play politics. The virus simply does not care about the heirarchies we've built. It doesn't care that the United States has the largest military in the world or that Saudi Arabia can artificially drop the price of crude oil. It doesn't care about Brexit or the state of Kurdistan, and it couldn't care less about the current value of the Venezuelan bolívar vs. the US dollar.
+The virus is not a terrorist or a freedom fighter, whose image can be seen as a liberator to some or an oppressor to others. The virus does not play politics. The virus simply does not care about the heirarchies we've built. It doesn't care that the United States has the largest military in the world or that Saudi Arabia can artificially drop the price of crude oil. It doesn't care about Brexit or the state of Kurdistan, and it couldn't care less about the current value of the Venezuelan bolívar vs. the US dollar.
 
 And in this, it is the perfect enemy: it simply is not possible to blame COVID-19's victims for bringing this on themselves – partially because we are all victims. That's the darkly beautiful thing about it all – we might not all die from it or even contract it, but we are all going to suffer from the effects of it.
 
@@ -85,7 +85,7 @@ So, the question is, what response does "The Economy" have for these horsemen of
 <br>
 > Will you be safe from discrimination?
 
-How we can be sure of this is by making sure we as citizens push for every citizen __of not just our country but of the world__ is provided for?
+How we can be sure of this is by making sure we as citizens push for every citizen __of not just our country but of the world is provided for__.
 
 __The first thing to do is to admit that it is fair to redestribute wealth for the greater good.__
 
