@@ -5,7 +5,7 @@ date:  2020-03-23 01:33:41 +0200
 tags: [ 'life', 'travel', 'digital nomad', 'philosophy' ]
 category: travel
 image: /assets/images/coronavirus.jpg
-share_image: /assets/images/kids-share.jpg
+share_image: /assets/images/coronavirus-share.jpg
 excerpt:
 ---
 Everywhere I look, people are talking about COVID-19. Rightly so, it's the most important event in years.
