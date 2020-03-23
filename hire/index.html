@@ -1,0 +1,41 @@
+---
+layout: page
+title: "Need some content written?"
+posts:
+  -
+    url: https://medium.com/p/its-the-tiniest-things-that-matter-for-user-experience-99408cd8d471
+    for_name: Pinmark
+    for_url: https://pinmark.io
+    title: It’s the tiniest things that matter for user experience
+    date: "2019-08-04T00:00:00+00:00"
+    excerpt: "We're going to go down the rabbit hole of what you will need to do when designing a usable app."
+  -
+    url: https://blog.blogsend.io/2019-01-18/5-powerful-things-to-learn-from-clickbait
+    for_name: Blogsend
+    for_url: https://blogsend.io
+    title: 300 people just scrolled past your blog post. Let me tell you why
+    date: "2019-01-18T00:00:00+00:00"
+    excerpt: "Nigerian princes and V1AGRA sales might be annoying, but they're not the worst."
+  -
+    url: https://blog.simpleanalytics.com/how-google-managed-to-destroy-users-trust-in-one-week
+    for_name: Simple Analytics
+    for_url: https://simpleanalytics.com
+    title: "How Google managed to destroy users' trust in one week"
+    date: "2018-10-02T00:00:00+00:00"
+    excerpt: "Google has seemingly broken the fourth wall in the illusion of Chrome as a benign entity."
+---
+
+<p>If you want me to write some awesome content for you, please don't hesitate to reach out to <a href="mailto:hire@80days.in">hire@80days.in</a>!</p>
+
+<section class="blogroll fade-bg padded">
+  <h2>Some professional content I've written</h2>
+  {% for post in page.posts %}
+    <div class="post">
+      <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
+      <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+      <p>{{ post.excerpt }}</p>
+
+      <p class="small">For <a href="{{post.for_url}}">{{post.for_name}}</a></p>
+    </div>
+  {% endfor %}
+</section>

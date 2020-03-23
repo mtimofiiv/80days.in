@@ -146,12 +146,39 @@ article {
       font-size: 190%;
     }
 
+    h3 {
+      padding: 0;
+      margin: 0;
+      font-size: 150%;
+    }
+
+    p:not(.date) {
+      margin: 0;
+      padding: 0 0 1em 0;
+    }
+
     .date {
       color: lighten($base-font-color, 20%);
       font-weight: bold;
       margin-bottom: 0;
     }
   }
+}
+
+.fade-bg {
+  background-color: $fade;
+
+  & > h2 {
+    border-bottom: 1px solid darken($fade, 10%);
+  }
+}
+
+.padded {
+  padding: 1em 2em;
+}
+
+.small {
+  font-size: 0.8em;
 }
 
 aside.subscribe-to-list {

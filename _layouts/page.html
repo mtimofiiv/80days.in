@@ -1,4 +1,13 @@
 ---
 layout: default
 ---
-{{content}}
+<div class="container">
+  <h1>{{page.title}}</h1>
+
+  {% if page.leadin %}
+    <p class="leadin">{{page.leadin}}</p>
+  {% endif %}
+  <section class="page">
+    {{content}}
+  </section>
+</div>
