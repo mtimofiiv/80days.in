@@ -24,8 +24,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-mike_location: Manchester
-mike_location_flag: 🇬🇧
+mike_location: Sliema
+mike_location_flag: 🇲🇹
 
 feed:
   categories:
